@@ -2,6 +2,8 @@
 
 React Router v6 在客户端路由方面已经走过了十年，它从以前的版本和它的姐妹项目 Reach Router 中获得了最好的功能，是我们目前最小和最强大的软件包。
 
+[开始教程](https://github.com/ZZZCNY/zh-docs-React-Router-v6/blob/823c2b0ea3dafbe687f8bef2c1c65e587ce03938/%E5%85%A5%E9%97%A8/%E6%95%99%E7%A8%8B.md)
+
 ## 嵌套式路由
 
 大多数应用程序都有一系列围绕页面主要部分的嵌套式布局。这些布局几乎总是与 URL 段相联系。
@@ -39,9 +41,9 @@ React Router v6 在客户端路由方面已经走过了十年，它从以前的�
 </Routes>
 ```
 
-| GITHUB USERS | CONTRIBUTORS | NPM DOWNLOADS | OF REACT APPS |
-| ------------ | ------------ | ------------- | ------------- |
-| 2.4M         | 600+         | 3.6M          | 70%           |
+| GITHUB 用户 | 贡献者 | NPM 下载量 | 在 REACT 应用中 |
+| ----------- | ------ | ---------- | --------------- |
+| 2.4M        | 600+   | 3.6M       | 70%             |
 
 ## 保持联系
 
